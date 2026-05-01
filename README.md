@@ -23,7 +23,3 @@ It contains **6 related tables** covering:
 - Answer **business questions**: churn analysis, most-watched genres, device usage trends  
 - Lay the groundwork for potential **Power BI/Tableau dashboards**  
 
-## Tech Stack
-- SQL (MySQL / PostgreSQL / SQLite)  
-- CSV → SQL import scripts  
-- Optional: Python for ETL and visualization  
